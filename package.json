@@ -1,0 +1,25 @@
+{
+  "name": "winston-file",
+  "version": "0.0.0",
+  "description": "**PLACEHOLDER** Future home of winston.transports.File – decoupled from winston core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winstonjs/winston-file.git"
+  },
+  "keywords": [
+    "winston",
+    "file",
+    "transport",
+    "rotation"
+  ],
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winstonjs/winston-file/issues"
+  },
+  "homepage": "https://github.com/winstonjs/winston-file#readme"
+}
